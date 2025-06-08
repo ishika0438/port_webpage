@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(246, 248, 226, 0.959);
+    margin:0px;
+}
+p{
+    font-family: winky rough;
+}
+
+h1{
+    font-family: winky rough;
+
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color:rgb(234, 208, 174);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    height: 50px;
+}
+.navbar a{
+    font-family: winky rough;
+    color: rgb(92, 69, 40);
+    text-decoration: none;
+    padding:15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(207, 185, 144);
+}
+.navbar li{
+    float : left;
+}
+footer{
+    background-color: rgb(179, 154, 116);
+}
+h1{
+    margin: 0px;
+    list-style-type: none;
+    background-color:rgb(234, 208, 174) ;
+    padding: 25px;
+    text-align: center;
+    
+
+}
+li{
+    font-style: oblique;
+    font-family: winky rough;
+}
+h2{
+    font-style: calc();
+    font-family: 'Times New Roman', Times, serif;
+}
