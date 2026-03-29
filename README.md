@@ -38,7 +38,8 @@ This project was built to practice frontend development and understand how to de
 2. Open `index.html` in your browser  
 
 ## 📸 Preview
-(Add a screenshot of your website here)
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/d66de335-7ea0-4fce-bd15-23f17cde8fff" />
+
 
 ## 👩‍💻 Author
 Ishika Rana
